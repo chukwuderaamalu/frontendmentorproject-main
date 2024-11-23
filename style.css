@@ -1,0 +1,23 @@
+
+body{background-color: lightblue;
+display: grid;
+place-content: center;
+padding: 30px;
+}
+
+.fm{
+    background-color: white;
+    border-radius:15px;
+    width: 375px;
+    padding: 15px;
+    text-align: center;
+}
+
+.fmi{
+    width: 100%;
+}
+
+p{
+    font-size: 15px;
+    color: silver;
+}
